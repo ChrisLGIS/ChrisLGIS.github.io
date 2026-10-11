@@ -34,15 +34,16 @@ A limitation of this map: Satellite images only show conditions at the times the
 
 ## Data Sources
 
-New York City Department of Health and Mental Hygiene. (2020). COVID-19 data. https://github.com/nychealth/coronavirus-data
+New York City Department of Health and Mental Hygiene. (2020–2025). NYC COVID-19 data. Historical COVID-19 reporting, including 2020 data. https://github.com/nychealth/coronavirus-data
 
-U.S. Census Bureau. Population and demographic data. https://data.census.gov/
+U.S. Census Bureau. (n.d.). Population and demographic data. https://data.census.gov/
 
-U.S. Geological Survey. Landsat 8 satellite imagery. https://www.usgs.gov/landsat-missions
+U.S. Geological Survey. (2018–2019). Landsat 8 satellite imagery. Images captured before, during, and after the 2018 Kilauea eruption. https://www.usgs.gov/landsat-missions
 
-U.S. Geological Survey. Kilauea volcano information and 2018 eruption. https://www.usgs.gov/volcanoes/kilauea
+U.S. Geological Survey. (n.d.). Kilauea Volcano. https://www.usgs.gov/volcanoes/kilauea
 
-Esri. Kilauea 2018 Lava Flow Extents, GIS learning materials. https://learn.arcgis.com/en/
+Esri. (n.d.). Kilauea 2018 lava flow extents, GIS learning materials. https://learn.arcgis.com/en/
+
 
 ## Where This Is Going
 
