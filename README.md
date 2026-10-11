@@ -20,7 +20,7 @@ A limitation of this map: The map only represents the available data from 2020 a
 ![Satellite imagery showing the 2018 Kilauea eruption and lava flow boundary](images/Kilauea_Eruption_2018.png)
 
 
-Interactive StoryMap, live as of October 2026: https://storymaps.arcgis.com/stories/154a97f4bcc04a0180dfb31b44f52787
+*Interactive StoryMap, live as of October 2026: [View the 2018 Kilauea StoryMap](https://storymaps.arcgis.com/stories/154a97f4bcc04a0180dfb31b44f52787)*
 
 Question: How did the landscape around Kilauea change during the 2018 volcanic eruption, and how can satellite imagery help us see those changes?
 
